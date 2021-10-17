@@ -1,0 +1,51 @@
+body {
+    background-image: url('./assets/background.png');
+    font-family: 'Domine', serif;
+}
+.display_inline {
+    display: inline;
+    padding: 0.5em;
+}
+
+#main{
+    color: #ffffff;
+    margin-top: 2em;
+}
+
+#alphabets{
+    margin-top: -50px;
+    margin-right: 200px;
+    margin-left: 390px;
+    margin-bottom : 30px;
+
+    
+}
+
+.text-center{
+    margin-top : 10px;
+}
+
+#text{
+    color: #ffffff;
+}
+#life{
+    color: #ffffff;
+}
+#Lifetext{
+    color: #ffffff;
+}
+#hint{
+    color: #ffffff;
+    margin-right : 3em;
+
+}
+#blanks{
+    color: #ffffff;
+}
+
+#result{
+    color: #ffffff;
+}
+.fill_blanks{
+    color: #ffffff;
+}
